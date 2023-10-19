@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @siradanmuggle, 
+- 👀 I’m interested in game development:
+- 🌱 I’m currently learning python.
